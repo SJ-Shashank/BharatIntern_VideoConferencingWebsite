@@ -1,0 +1,24 @@
+.lobby{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.email{
+    padding-bottom: 10px;
+    border-radius: 10px;
+    padding-right: 1px;
+    margin: 10px 0;
+}
+.input{
+    margin: 10px;
+    width: 200px; 
+    height: 25px; 
+    margin: 2px; 
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box; 
+}
+.button{
+    margin: 10px;
+}
